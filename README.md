@@ -9,12 +9,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 2. Install dependencies
 
- npm install --legacy-peer-deps
+ - npm install --legacy-peer-deps
 
 
 3. Start the app
 
-npx expo start --port 3001
+- npx expo start --port 3001
 
 In the output, you'll find options to open the app in a
 
