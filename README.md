@@ -38,9 +38,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 - Tại đây bạn sẽ thấy:
 
-+ Thông tin vé: tên sự kiện, ngày giờ, địa điểm,...
+      + Thông tin vé: tên sự kiện, ngày giờ, địa điểm,...
 
-+ Mã QR code của vé.
+      + Mã QR code của vé.
 
 3. Check-in sự kiện
 - Khi đến sự kiện, mở lại màn hình mã QR code trong mục "Vé của tôi".
