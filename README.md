@@ -20,7 +20,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 3. Start the app
    ```bash
-   npx expo start --port 3001
+   npx expo start --port 3002
     ```
 In the output, you'll find options to open the app in a
 
