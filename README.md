@@ -6,9 +6,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 1. Clone dự án về :
 
    ```bash
-git clone https://github.com/tri-0412/ticket-mobileCustomer.git
-cd ticket-mobileCustomer
-```
+   git clone https://github.com/tri-0412/ticket-mobileCustomer.git
+   cd ticket-mobileCustomer
+   ```
 
 2. Install dependencies
 
@@ -20,8 +20,8 @@ cd ticket-mobileCustomer
 
 3. Start the app
    ```bash
-npx expo start --port 3001
- ```
+   npx expo start --port 3001
+    ```
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
