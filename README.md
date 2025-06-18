@@ -22,31 +22,31 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start --port 3002
     ```
-In the output, you'll find options to open the app in a
+📝 Hướng Dẫn Sử Dụng Dành Cho Khách Hàng
+1. Đăng nhập tài khoản
+Mở email bạn đã đăng ký với ban tổ chức.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Tìm email chứa tài khoản và mật khẩu đăng nhập.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Truy cập trang web hoặc ứng dụng sự kiện.
 
-## Get a fresh project
+Nhập tài khoản và mật khẩu được cung cấp để đăng nhập.
 
-When you're ready, run:
+2. Xem vé của bạn
+Sau khi đăng nhập thành công, chọn mục "Vé của tôi" (hoặc "My Tickets").
 
-```bash
-npm run reset-project
-```
+Tại đây bạn sẽ thấy:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Thông tin vé: tên sự kiện, ngày giờ, địa điểm,...
 
-## Learn more
+Mã QR code của vé.
 
-To learn more about developing your project with Expo, look at the following resources:
+3. Check-in sự kiện
+Khi đến sự kiện, mở lại màn hình mã QR code trong mục "Vé của tôi".
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Đưa mã QR này cho nhân viên sự kiện để quét và xác nhận vé.
+
+Sau khi quét thành công, bạn sẽ được vào cổng.
 
 ## Join the community
 
