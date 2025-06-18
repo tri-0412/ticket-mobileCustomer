@@ -3,17 +3,20 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
+1. git clone https://github.com/tri-0412/ticket-mobileCustomer.git
+cd ticket-mobileCustomer
 
-1. Install dependencies
+2. Install dependencies
 
    ```bash
-   npm install
+ npm install --legacy-peer-deps
+
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
-    npx expo start
+    npx expo start --port 3001
    ```
 
 In the output, you'll find options to open the app in a
